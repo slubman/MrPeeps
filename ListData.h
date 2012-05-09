@@ -1,6 +1,7 @@
 #ifndef LIST_DATA
 #define LIST_DATA
 
+#include <Node.h>
 #include <Entry.h>
 #include <List.h>
 #include <String.h>

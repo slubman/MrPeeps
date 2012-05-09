@@ -3,6 +3,9 @@
 
 #include <Window.h>
 #include <View.h>
+#include <List.h>
+#include <ListItem.h>
+#include <Entry.h>
 #include <TextControl.h>
 #include <PopUpMenu.h>
 #include <Button.h>
